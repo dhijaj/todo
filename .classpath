@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/cobertura-2.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/cucumber-reporting-0.1.13.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Documents/AA Selenium/jars, Test APKs and apis /selenium-server-standalone-2.52.0.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/bsh-2.0b5.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Documents/AA Selenium/jars, Test APKs and apis /commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Documents/AA Selenium/jars, Test APKs and apis /commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Documents/AA Selenium/jars, Test APKs and apis /java-client-3.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Documents/AA Selenium/jars, Test APKs and apis /hamcrest-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Documents/AA Selenium/jars, Test APKs and apis /httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Documents/AA Selenium/jars, Test APKs and apis /selenium-2.52.0/selenium-java-2.52.0-srcs.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Documents/AA Selenium/jars, Test APKs and apis /selenium-2.52.0/selenium-java-2.52.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Downloads/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="/Users/dhineshraj/Documents/AA Selenium/jars, Test APKs and apis /apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,7 @@
+2016-07-19 14:34:41,591 INFO  [Test_Steps] New test page is not launched 
+2016-07-19 14:34:42,024 INFO  [Test_Steps] User Navigate to create Todo 
+2016-07-19 14:34:42,123 INFO  [Test_Steps] User press enter in keyboard to save 
+2016-07-19 14:34:42,214 INFO  [Test_Steps] User selects the first todo item to make it complete 
+2016-07-19 14:34:42,711 INFO  [Test_Steps] User selects the first todo item to delete it 
+2016-07-19 14:34:42,825 INFO  [Test_Steps] User selects the Active tab to see the active todos 
+2016-07-19 14:34:42,941 INFO  [Test_Steps] User selects the Completed tab to see the Completed todos 
